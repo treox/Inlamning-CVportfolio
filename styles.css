@@ -1,12 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: grey;
+    background-color: rgb(190, 183, 183);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    background-color: black;
+    background-color: rgb(190, 183, 183);
     color: white;
     display: flex;
     justify-content: center;
@@ -34,7 +34,7 @@ header {
 }
 
 #section1 {
-    background-color: grey;
+    background-color: rgb(190, 183, 183);
     width: 400px;
     padding: 20px;
 }
@@ -46,7 +46,7 @@ header {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(190, 183, 183);
     color: white;
     display: flex;
     justify-content: center;
