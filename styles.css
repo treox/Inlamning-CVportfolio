@@ -13,7 +13,7 @@ header {
 }
 
 .hdiv {
-    width: 700px;
+    width: 519px;
     padding: 20px;
 }
 
@@ -35,13 +35,13 @@ header {
 
 #section1 {
     background-color: rgb(190, 183, 183);
-    width: 400px;
+    width: 312px;
     padding: 20px;
 }
 
 #section2 {
     background-color: lightgrey;
-    width: 1000px;
+    width: 726px;
     padding: 20px;
 }
 
@@ -53,7 +53,7 @@ footer {
 }
 
 .foot-div {
-    width: 700px;
+    width: 519px;
     padding: 20px;
 }
 
